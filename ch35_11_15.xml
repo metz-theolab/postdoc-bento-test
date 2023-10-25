@@ -17,7 +17,6 @@
             <margin type="margin" line="1">ומי בעל גמולות כי אם הוא׃</margin>
             <margin type="margin_car" line="1">מעשרך</margin>
             <margin type="margin_car" line="1">מעשיך</margin>
-            <margin type="margin_car" line="1">כ̇מ̇תתו</margin>
             <div type="verse" n="12">
                 <line n="2" folio="TS 16.313 (recto)" />
                 <w reconstructed="0">תן</w>
@@ -31,7 +30,8 @@
                 <w reconstructed="0">יד׃</w>
             </div>
             <margin type="margin_infralinear" line="2">לאֵ‍ל</margin>
-            <margin type="margin_car" line="2">וב</margin>
+	    <margin type="margin_car" line="2">כ̇מ̇תתו</margin>
+	    <margin type="margin_car" line="2">וב</margin>
             <margin type="margin_supralinear" line="2">כ</margin>
             <margin type="margin_car" line="2">הגשת וב</margin>
             <margin type="margin_supralinear" line="2">כ</margin>
