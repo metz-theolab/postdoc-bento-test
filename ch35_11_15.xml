@@ -11,31 +11,29 @@
                 <w reconstructed="0">ובששון</w>
                 <w reconstructed="0">הקדש</w>
                 <w reconstructed="0">מעשר</w>
+                <margin type="margin_car" line="1">מעשרך</margin>
+                <margin type="margin_car" line="1">מעשיך</margin>
                 <w reconstructed="0">:</w>
             </div>
-            <margin type="margin_car" line="1">מעשרך</margin>
-            <margin type="margin_car" line="1">מעשיך</margin>
             <div type="verse" n="12">
                 <line n="2" folio="TS 16.313 (recto)" />
                 <w reconstructed="0">תן</w>
                 <w reconstructed="0">לו</w>
+                <margin type="margin_infralinear" line="2">לאֵ‍ל</margin>
                 <w reconstructed="0">כמתנתו</w>
+                <margin type="margin_car" line="2">כמתתו</margin>
                 <w reconstructed="0">לך</w>
                 <w reconstructed="0">:</w>
                 <stych />
                 <w reconstructed="0">בטוב</w>
                 <w reconstructed="0">עין</w>
                 <w reconstructed="0">ובהשגת</w>
+                <margin type="margin_car" line="2">וב/כ/הגשת</margin>
+                <margin type="margin_car" line="2">וב/כ/הגיש</margin>
+                <margin type="margin_supralinear" line="2">כ</margin>
                 <w reconstructed="0">יד</w>
                 <w reconstructed="0">׃</w>
             </div>
-            <margin type="margin_car" line="2">כמתתו</margin>
-            <margin type="margin_infralinear" line="2">לאֵ‍ל</margin>
-	        <margin type="margin_car" line="2">וב</margin>
-            <margin type="margin_supralinear" line="2">כ</margin>
-            <margin type="margin_car" line="2">הגשת וב</margin>
-            <margin type="margin_supralinear" line="2">כ</margin>
-            <margin type="margin_car" line="2">הגיש</margin>
             <margin type="margin" line="1">מלוה ייי נותן לאביון</margin>
             <margin type="margin" line="1">ומי בעל גמולות כי אם הוא׃</margin>
             <div type="verse" n="13">
@@ -47,10 +45,11 @@
                 <stych />
                 <w reconstructed="0">ושבעתים</w>
                 <w reconstructed="0">ישיב</w>
+                <margin type="margin_car" line="3">ישלם</margin>
                 <w reconstructed="0">לך</w>
                 <w reconstructed="0">׃</w>
             </div>
-            <margin type="margin_car" line="3">ישלם</margin>
+           
             <div type="verse" n="14/15">
                 <line n="4" folio="TS 16.313 (recto)" />
                 <w reconstructed="0">אל</w>
@@ -63,7 +62,8 @@
                 <w reconstructed="0">תבטח</w>
                 <w reconstructed="0">על</w>
                 <w reconstructed="0">זבח</w>
-                <w reconstructed="0">מעשק׃</w>
+                <w reconstructed="0">מעשק</w>
+                <w reconstructed="0">׃</w>
                 <line n="5" folio="TS 16.313 (recto)" />
                 <w reconstructed="0">כי</w>
                 <w reconstructed="0">אלהי</w>
@@ -73,7 +73,8 @@
                 <w reconstructed="0">ואין</w>
                 <w reconstructed="0">עמו</w>
                 <w reconstructed="0">משוא</w>
-                <w reconstructed="0">פנים׃</w>
+                <w reconstructed="0">פנים</w>
+                <w reconstructed="0">׃</w>
             </div>
         </div>
     </div>
